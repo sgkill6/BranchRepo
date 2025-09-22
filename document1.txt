@@ -1,3 +1,6 @@
+나비처럼날가볼까일렁거리는
+ㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴ
+ㅁㄴㅇㄴㅁㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇ
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
